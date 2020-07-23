@@ -16,7 +16,7 @@
 
 # Funcionalidades
  - Cadastro de spots em banco de dados não relacional
- - Listagem de spots atualizada em tempo real
+ - Listagem de spots por tecnologia
  - Notificação de reservas em tempo real
 
 # Principais Tecnologias
